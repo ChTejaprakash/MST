@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+}
+#id1{
+    color:red;
+}
+#id2{
+    color:green;
+}
+#id3{
+    color:blue;
+}
+p{
+    display:inline;
+}

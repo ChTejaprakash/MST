@@ -1,0 +1,26 @@
+#div1{
+    border:10px solid black;
+    padding:20px;
+    height:250px;
+    width:180px;
+    background:rgb(12, 198, 245);
+}
+#div2{
+    
+    border-top:20px  solid black;
+    border-bottom:20px solid black;
+    border-left:10px solid black;
+    border-right:10px solid black;
+    width:200px;
+    height:200px;
+    background:rgb(214, 214, 4);
+    margin-left:240px;
+}
+#div3{
+    
+    border:10px  solid black;
+    width:200px;
+    height:200px;
+    background:rgb(194, 99, 11);
+    margin-left:20px;
+}
